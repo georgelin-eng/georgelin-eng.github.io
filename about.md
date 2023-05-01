@@ -14,7 +14,7 @@ In addition to my passion for electronics and mechatronics, I also have project 
 
 
 <div style="display: flex; align-items: center;">
-  <img src="./goal-svgrepo-com.svg" style="width: 2em; height: 2em;">
+  <img src="goal-svgrepo-com.svg" style="width: 2em; height: 2em;">
   <h2 style="margin-right: 10px;"> &nbsp;Professional Goal</h2>
 </div>
 
