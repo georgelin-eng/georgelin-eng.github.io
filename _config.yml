@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm George Lin."
-email: 'jami0821@gmail.com'
+email: 'georgelin469@gmail.com'
 description: "I'm an electrical engineering student and I love solving problems."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'georgelin-eng'
-medium_username: 'blog.jamigibbs.com'
+linkedIn_username: 'george-lin-4a1420253'
 
 # Build settings
 markdown: kramdown
