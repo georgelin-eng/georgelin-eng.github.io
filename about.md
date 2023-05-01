@@ -9,7 +9,7 @@ I'm a mechanical engineering student fascinated by wireless technology and mecha
 
 I'm constantly wanting to learn new skills and this drives me to eagerly pursue projects that push my limits. I enjoy seeking new experineces, meeting new people, and learning more about the world that I live in. I belive that my continuous desire to learn helps keep me adaptable and constantly improving.
 
-When I'm not exploring the intersection of mechanical and electrical systems or pursuing new projects, I can often be found creating digital art or going on a jog. I'm also passionate about culture and language, and enjoy capturing photos of places around the world.
+When I'm not working on new projects or completing coursework, I can often be found creating digital art or going on a jog. I'm also passionate about culture and language, and enjoy capturing photos of places around the world.
 
 ## 🚀 Professional Goal
 
