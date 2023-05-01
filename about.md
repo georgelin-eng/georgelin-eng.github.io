@@ -11,7 +11,7 @@ I'm constantly wanting to learn new skills and this drives me to eagerly pursue 
 
 When I'm not exploring the intersection of mechanical and electrical systems or pursuing new projects, I can often be found creating digital art or going on a jog. I'm also passionate about culture and language, and enjoy capturing photos of places around the world.
 
-## 🚀 Professional Goal
+## 🚀 Professional Goal🚀
 
 I plan to on using on pursuing a career that lies at the intersection of mechatronics and wireless technologies. To do this, I'm looking for experiences that require me to apply both electrical and mechanical engineering skills. 
 
