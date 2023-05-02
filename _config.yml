@@ -36,7 +36,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: false
+  debug: true
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
@@ -92,6 +92,7 @@ footer_text: '© 2023 George Lin'
 admin_name: 'George Lin'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: true
+future: true
 
 #### Phantom Navigation menu
 enable_nav: true
