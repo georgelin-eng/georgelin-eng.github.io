@@ -5,7 +5,7 @@ title: 'Solar Tracker'
 date: 2023-05-03 10:08:00
 categories: Controls
 tags: Arduino Control Systems
-featured_image: '/img/posts/2022-solar-tracker-circuit-diagram'
+featured_image: '/img/posts/2023-solar-tracker-circuit-diagram.png'
 project_link: 'https://github.com/georgelin-eng/Solar-tracker'
 button_icon: 'sun'
 button_text: 'Visit Project'

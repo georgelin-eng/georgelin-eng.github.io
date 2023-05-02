@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: left
-title: 'Solar Tracker'
-date: 2023-05-02 10:08:00
+position: right
+title: 'Topography Image Script'
+date: 2023-03-29 10:00:00
 categories: Python
 tags: :Python Automation
-featured_image: '/img/posts/2022-solar-tracker-circuit-diagram'
-project_link: 'https://github.com/georgelin-eng/Solar-tracker'
-button_icon: 'sun'
+featured_image: '/img/posts/2023-topography.png'
+project_link: 'https://github.com/georgelin-eng/Topography-image-data-script'
+button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "A tracking system that points a solar panel towards light"
+lead_text: "A python script with outputs a CSV file in a with height at x-y location."
 ---
