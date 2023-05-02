@@ -3,8 +3,10 @@ layout: inner
 position: left
 title: 'Solar Tracker'
 date: 2023-05-03
-categories: Controls
-tags: Arduino, Control, Systems
+categories: 
+tags: 
+    - Arduino
+    - Control Systems
 featured_image: 'img/posts/2023-solar-tracker-circuit-diagram.png'
 project_link: 'https://github.com/georgelin-eng/Solar-tracker'
 button_icon: 'flask'

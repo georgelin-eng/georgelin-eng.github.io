@@ -3,8 +3,10 @@ layout: inner
 position: right
 title: 'Topography Image Script'
 date: 2023-03-29
-categories: Python
-tags: Python, Automation
+categories: 
+tags: 
+    - Python
+    - Automation
 featured_image: '/img/posts/2023-topography.png'
 project_link: 'https://github.com/georgelin-eng/Topography-image-data-script'
 button_icon: 'github'
