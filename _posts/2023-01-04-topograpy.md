@@ -3,7 +3,7 @@ layout: inner
 position: right
 title: 'Topography image to CSV'
 date: 2023-01-04
-categories: development
+categories: 
 tags: 
     - Python
     - Image Processing
