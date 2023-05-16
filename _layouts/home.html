@@ -10,8 +10,12 @@
             <p class="section-subtitle text-center">I have experience primarily with electrical design, controls, simulation, and CAD. Here are my most recent projects! </p>
 
             <div class="break"></div>
-            
-            {% for post in paginator.posts %}
+            {% for post in site.posts %}
+              <h2>{{ post.title }}</h2>
+              <h3>{{ post.lead_text }}</h3>
+            {% endfor %}
+
+            <!-- {% for post in paginator.posts %}
               <div class="wow fadeIn">
               {% if post.position == "left" %}
                 {% include content-left.html %}
@@ -23,7 +27,7 @@
               </div>
             {% endfor %}
 
-            {% include pagination.html %}
+            {% include pagination.html %} -->
 
           </div>
         </div>
