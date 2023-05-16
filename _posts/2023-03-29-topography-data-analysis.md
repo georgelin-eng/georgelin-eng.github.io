@@ -3,7 +3,7 @@ layout: inner
 position: right
 title: 'Topography Image Script'
 date: 2023-03-29
-categories: 
+categories: development
 tags: 
     - Python
     - Automation
