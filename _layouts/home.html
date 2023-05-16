@@ -6,12 +6,21 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="section-title text-center">Latest Works: REEEEEEEEE</h2>
+            <h2 class="section-title text-center">Latest Works: </h2>
             <p class="section-subtitle text-center">I have experience primarily with electrical design, controls, simulation, and CAD. Here are my most recent projects! </p>
 
             <div class="break"></div>
 
-            {% for post in paginator.posts %}
+            {% if post.position == "left" %}
+                {% include content-left.html %}
+              {% endif %}
+
+            {% if post.position == "right" %}
+              {% include content-right.html %}
+            {% endif %}
+            </div>
+
+            <!-- {% for post in paginator.posts %}
               <div class="wow fadeIn">
               {% if post.position == "left" %}
                 {% include content-left.html %}
@@ -21,7 +30,7 @@
                 {% include content-right.html %}
               {% endif %}
               </div>
-            {% endfor %}
+            {% endfor %} -->
 
             {% include pagination.html %}
 
