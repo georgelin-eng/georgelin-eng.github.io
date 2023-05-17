@@ -16,5 +16,3 @@ When I'm not working on new projects or completing coursework, I can often be fo
 I plan on pursuing a career that lies at the intersection of robotics and wireless technologies. To do this, I'm looking for experiences that require me to apply both electrical and mechanical engineering skills. 
 
 In pursuing this career path, I am motivated by the potential to make a positive impact on people's lives. Whether it's through designing new medical devices, creating sustainable energy solutions, or developing cutting-edge wireless technologies, I look forward to building a career that I am passionate about and that allows me to make a difference in the world.
-
-## Test 12 - Testing new for loop condition
