@@ -7,7 +7,7 @@ categories:
 tags: 
     - CAD
     - XFOIL analysis
-featured_image: 'img/posts/2023-topography.png'
+featured_image: 'img/posts/2023-xfoil.png'
 project_link: 'img/pdf/test.pdf'
 button_icon: 'file'
 button_text: 'Project Summary'
