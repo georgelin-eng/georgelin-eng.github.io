@@ -7,7 +7,7 @@ categories:
 tags: 
     - Digital Signal Processing
     - MATLAB
-featured_image: 'img/posts/2023-custom-spectrogram.png'
+featured_image: 'img/posts/2023-solar-tracker-circuit-diagram.png'
 project_link: 'img\pdf\Implementing_time_frequency_analysis_using_custom_spectrogram_program_in_MATLAB_with_applications_to_radar_and_biomedical_signals_processing.pdf'
 button_icon: 'file'
 button_text: 'Visit Project'
