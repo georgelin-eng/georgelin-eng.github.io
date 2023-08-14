@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Time frequency analysis in MATLAB'
 date: 2023-08-07
 categories: 
