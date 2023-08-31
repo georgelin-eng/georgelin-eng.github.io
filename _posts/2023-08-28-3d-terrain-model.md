@@ -9,7 +9,7 @@ tags:
     - Computer vision
     - Data visualization
     - Python
-featured_image: 'img/posts/2023-topographic-map-to-3D-terrain-model.png'
+featured_image: 'img/posts/2023-3D-terrain-model.png'
 project_link: 'https://github.com/georgelin-eng/topographic-map-to-3D-terrain-model'
 button_icon: 'github'
 button_text: 'Visit Project'
