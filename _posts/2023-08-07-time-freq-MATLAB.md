@@ -1,12 +1,13 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Time frequency analysis in MATLAB'
 date: 2023-08-07
 categories: 
 tags: 
     - Digital Signal Processing
     - MATLAB
+    - Research Paper
 featured_image: 'img/posts/2023-custom-spectrogram.png'
 project_link: 'img\pdf\Implementing_time_frequency_analysis_using_custom_spectrogram_program_in_MATLAB_with_applications_to_radar_and_biomedical_signals_processing.pdf'
 button_icon: 'file'
