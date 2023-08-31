@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Topographic map to 3D terrain model'
 date: 2023-08-28
 categories: 

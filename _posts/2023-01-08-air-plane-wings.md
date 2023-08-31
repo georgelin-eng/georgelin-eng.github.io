@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Wing Design'
 date: 2023-01-08
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Sonar Depth Mapping System'
 date: 2023-06-30
 categories: 
