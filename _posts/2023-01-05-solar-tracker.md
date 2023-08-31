@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Solar Tracker'
-date: 2023-01-03
+date: 2023-01-05
 categories: 
 tags: 
     - Arduino
